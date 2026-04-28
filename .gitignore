@@ -1,0 +1,35 @@
+# Build outputs
+bin/
+obj/
+release/
+
+# IDE
+.idea/
+.vs/
+.vscode/
+*.user
+*.suo
+*.pdb
+
+# .NET
+*.deps.json
+*.runtimeconfig.json
+*.cache
+*.log
+
+# Git
+.git
+.gitattributes
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# User-specific files
+*.rsuser
+*.csproj.user
+
+# Rider
+.shelf/
+_ReSharper.Caches/

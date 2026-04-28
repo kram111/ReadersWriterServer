@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CountServer/CountServer.csproj" />
+    <Project Path="src/ReadersWriterDemo/ReadersWriterDemo.csproj" />
+  </Folder>
+</Solution>
